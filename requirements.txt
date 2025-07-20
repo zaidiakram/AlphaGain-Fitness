@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-google-genai
+faiss-cpu
+tiktoken
+python-dotenv
+google-generativeai
+logger
+streamlit
+

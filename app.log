@@ -1,0 +1,25 @@
+2025-07-18 21:49:08,712 - INFO - AI Fitness App initialized successfully!
+2025-07-18 21:49:15,326 - INFO - AI Fitness App initialized successfully!
+2025-07-18 21:49:43,348 - INFO - AI Fitness App initialized successfully!
+2025-07-18 21:50:03,086 - INFO - AI Fitness App initialized successfully!
+2025-07-18 21:51:04,781 - INFO - AI Fitness App initialized successfully!
+2025-07-18 21:51:04,781 - INFO - \u274c Failed to generate workout plan: name 'model' is not defined
+2025-07-18 21:52:46,801 - INFO - AI Fitness App initialized successfully!
+2025-07-18 21:52:46,801 - INFO - \u274c GOOGLE_API_KEY is missing from .env or environment.
+2025-07-18 21:54:50,108 - INFO - AI Fitness App initialized successfully!
+2025-07-18 21:54:50,109 - INFO - \u274c GOOGLE_API_KEY is missing from .env or environment.
+2025-07-18 21:57:03,643 - INFO - AI Fitness App initialized successfully!
+2025-07-18 21:57:03,660 - INFO - \u2705 Gemini model loaded successfully.
+2025-07-18 21:57:15,468 - INFO - \u2705 Workout plane generated successfully!
+2025-07-18 21:58:51,237 - INFO - AI Fitness App initialized successfully!
+2025-07-18 21:58:51,254 - INFO - \u2705 Gemini model loaded successfully.
+2025-07-18 21:59:03,377 - INFO - \u2705 Workout plane generated successfully!
+2025-07-18 21:59:16,694 - INFO - AI Fitness App initialized successfully!
+2025-07-18 21:59:16,710 - INFO - \u2705 Gemini model loaded successfully.
+2025-07-18 21:59:29,656 - INFO - \u2705 Workout plane generated successfully!
+2025-07-18 22:02:35,063 - INFO - AI Fitness App initialized successfully!
+2025-07-18 22:02:35,080 - INFO - \u2705 Gemini model loaded successfully.
+2025-07-18 22:02:46,202 - INFO - \u2705 Workout plane generated successfully!
+2025-07-18 22:24:01,061 - INFO - AI Fitness App initialized successfully!
+2025-07-18 22:24:01,085 - INFO - \u2705 Gemini model loaded successfully.
+2025-07-18 22:24:16,551 - INFO - \u2705 Workout plane generated successfully!
