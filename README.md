@@ -2,6 +2,9 @@
 
 AlphaGain is an AI-powered fitness app that generates personalized workout plans and provides guidance through an AI fitness coach using Google Gemini AI.
 
+##  Live Demo
+👉 https://alphagain.streamlit.app/
+
 ## Features
 
 * AI-based workout plan generation
