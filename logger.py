@@ -1,21 +1,22 @@
-
-
 import logging
 
-# Configure logging
 logging.basicConfig(
-    filename="app.log", 
     level=logging.INFO,
-    format="%(asctime)s - %(levelname)s - %(message)s"
+    format="%(asctime)s [%(levelname)s] %(message)s",
+    handlers=[
+        logging.FileHandler("app.log"), 
+        logging.StreamHandler(),         
+    ],
 )
 
-def log_message(message, level="info"):
-    if level == "info":
-        logging.info(message)
-    elif level == "warning":
-        logging.warning(message)
-    elif level == "error":
-        logging.error(message)
+_logger = logging.getLogger(__name__)
 
-# Example usage
-log_message("AI Fitness App initialized successfully!")
+
+def log_message(message: str, level: str = "info") -> None:
+    """Log a message at the given level: info / warning / error"""
+    if level == "info":
+        _logger.info(message)
+    elif level == "warning":
+        _logger.warning(message)
+    elif level == "error":
+        _logger.error(message)
