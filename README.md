@@ -16,6 +16,7 @@ AlphaGain is an AI-powered fitness app that generates personalized workout plans
 <img width="1184" height="388" alt="Screenshot 2026-03-12 044448" src="https://github.com/user-attachments/assets/aa082963-f736-4b6d-9888-6566959d2bf5" />
 
 
+
 ## Installation
 
 ```bash
